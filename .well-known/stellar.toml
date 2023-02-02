@@ -39,5 +39,20 @@ is_unlimited=true
 name="USDMAU"
 desc="USDMAU stablecoin, which MAU Accounts undertakes to exchange to bearers at the price of 1 US dollar."
 conditions="USDMAU guaranteed by 100% exchange in US dollars."
-redemption_instructions="The bearer USDMAU has the right to replace his tokens with value of US dollars."
+redemption_instructions="The bearer of USDMAU has the right to replace his tokens with value of US dollars."
 image="https://mauaccounts.net/images/usdmau-logo.png"
+
+[[CURRENCIES]]
+code="PKOIN"
+issuer="GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB"
+status="live"
+display_decimals=7
+anchor_asset_type="crypto"
+anchor_asset="PKOIN"
+is_asset_anchored=true
+is_unlimited=true
+name="PKOIN"
+desc="PKOIN on MAU Accounts is a token for Wrapped PKOIN - the internal crypto currency of Project Bastyon stored with 100% reserve. It guarantees that the applicant, upon request, can 'unwrap' (or exchange) this token for real PKOIN in Pocketcoin/Bastyon blockchain."
+conditions="Wrapped PKOIN secured by 100% reserve assets in PKOIN on Pocketcoin/Bastyon blockchain. You may see this reservation on https://bastyon.com/blockexplorer/address/ZWEP4sPRW8V7JEEwMnaSaBM9wb6knMHkAd"
+redemption_instructions="For the owner of these assets, the bearer of PKOIN has the right, in a 1 to 1 ratio, to replace his tokens with PKOIN itself, by sending his tokens to MAU Accounts DAO."
+image="https://mauaccounts.net/images/pkoinmau-logo.png"
