@@ -1,0 +1,43 @@
+# MAU Accounts Stellar Anchor <https://mauaccounts.net>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB",
+"GDLPJOU25UFVIMAVIR2VKZGMTKFXAF6BERO4QVYIKQDIJBQWLI27Z53P"
+]
+
+[DOCUMENTATION]
+ORG_NAME="MAU Accounts DAO"
+ORG_DBA="MAU Accounts DAO"
+ORG_URL="https://mauaccounts.net"
+ORG_LOGO="https://mauaccounts.net/images/logo.png"
+ORG_DESCRIPTION="MAU Accounts DAO - accounting and non-financial mutual obligations solving solutions distibuted provider"
+ORG_GITHUB="mau-accounts-dao"
+ORG_OFFICIAL_EMAIL="adm@mauaccounts.com"
+ORG_SUPPORT_EMAIL="adm@mauaccounts.com"
+
+[[CURRENCIES]]
+code="MAU"
+issuer="GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name="MAU"
+desc="MAU is basic token for MAU Accounts provider."
+image="https://mauaccounts.net/images/mau-logo.png"
+
+[[CURRENCIES]]
+code="USDMAU"
+issuer="GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="USD"
+is_asset_anchored=true
+is_unlimited=true
+name="USDMAU"
+desc="USDMAU stablecoin, which MAU Accounts undertakes to exchange to bearers at the price of 1 US dollar."
+conditions="USDMAU guaranteed by 100% exchange in US dollars."
+redemption_instructions="The bearer USDMAU has the right to replace his tokens with value of US dollars."
+image="https://mauaccounts.net/images/usdmau-logo.png"
