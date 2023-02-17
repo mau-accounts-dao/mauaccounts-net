@@ -1,0 +1,47 @@
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#000",
+           text: "#fff"
+        },
+       button: {
+           background: "#fd0",
+           text: "#000"
+        }
+    },
+   content: {
+       link: "About consent",
+       href: "https://mauaccounts.net/cookies"
+    },
+    onInitialise: function(status) {
+      if(status === cookieconsent.status.allow) {
+            updateCookiesConsentForIncludes(true);
+      }
+    },
+    onStatusChange: function(status) {
+       updateCookiesConsentForIncludes(this.hasConsented());
+    }
+  })
+});
+
+function updateCookiesConsentForIncludes(hasConsented) {
+    if (hasConsented) {
+        gtag('consent', 'update', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'granted'
+        });
+    } else {
+        gtag('consent', 'update', {
+            'ad_storage': 'denied',
+            'analytics_storage': 'denied'
+        });
+    }
+}
+</script>
