@@ -15,17 +15,17 @@ Cookies can also be used to establish statistics about the browsing experience a
 
 In general, cookies can be classified by:
 
-1. Provenance:
+* Provenance:
 
 - First-party cookies are issued by a website that a user views directly
 - Third-party cookies are not created by the website being visited, but by a third party like Google Analytics, DoubleClick, Facebook, Twitter, LinkedIn, Youtube, Vimеo, etc.
 
-2. Duration:
+* Duration:
 
 - Session cookies which is erased when the user closes the browser
 - Persistent cookies which remains on the user device for a some period of time
 
-3. Purpose:
+* Purpose:
 
 - Strictly necessary cookies are required for website to work properly
 - Preferences cookies allow a website to remember choices you have made in the past
