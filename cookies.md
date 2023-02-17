@@ -18,9 +18,11 @@ In general, cookies can be classified by:
 1. Provenance:
 - First-party cookies are issued by a website that a user views directly
 - Third-party cookies are not created by the website being visited, but by a third party like Google Analytics, DoubleClick, Facebook, Twitter, LinkedIn, Youtube, Vimеo, etc.
+
 2. Duration:
 - Session cookies which is erased when the user closes the browser
 - Persistent cookies which remains on the user device for a some period of time
+
 3. Purpose:
 - Strictly necessary cookies are required for website to work properly
 - Preferences cookies allow a website to remember choices you have made in the past
@@ -41,11 +43,11 @@ You can set your browser to refuse cookies, or delete all cookies.
 
 Find out how to manage cookies on popular browsers: 
 
-[Google Chrome](https://support.google.com/accounts/answer/61416)
-[Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-[Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
-[Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
-[Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
-[Opera](https://help.opera.com/en/latest/web-preferences/#cookies)
+- [Google Chrome](https://support.google.com/accounts/answer/61416)
+- [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+- [Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+- [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+- [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+- [Opera](https://help.opera.com/en/latest/web-preferences/#cookies)
 
 Please note that if you choose to block cookies, this may impair or prevent due functioning of web pages. 
