@@ -9,6 +9,6 @@ MAU Accounts DAO does not conduct any activities under the jurisdiction of the U
 
 In our activities, we adhere, among other things, to these Agreements:
 
-1\. [Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements](https://{{site.url}}{{site.baseurl}}/legal_prevention_unlawful_en)
+1\. [Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements]({{site.url}}{{site.baseurl}}/legal_prevention_unlawful_en)
 
 In case of any complaints and/or questions of a legal nature, please send them by e-mail [legal@mauaccounts.com](mailto:legal@mauaccounts.com)
