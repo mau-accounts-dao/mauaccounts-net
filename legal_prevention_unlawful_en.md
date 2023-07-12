@@ -1,6 +1,7 @@
 ---
 title: Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements
 layout: page
+nav_exclude: true
 ---
 
 MAU Accounts DAO, together with the participants who have joined under this Agreement (hereinafter raeferred to as Participants), adhere to international legal norms, as well as local jurisdiction norms applicable to their activities, aimed at combating property crimes, illegal trade, money laundering obtained illegally, and hereby enter into this agreement on the following:
