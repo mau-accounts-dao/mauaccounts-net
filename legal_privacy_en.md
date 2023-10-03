@@ -6,9 +6,9 @@ nav_exclude: true
 
 MAU Accounts DAO adopts the following privacy policy and rules for handling personal data:
 
-(in the text, all terms that start with a capital letter are defined as stated in the [Mutual Obligations Accounting Agreement]({{site.url}}{{site.baseurl}}/legal_agreement_en))).
+(in the text, all terms that start with a capital letter are defined as stated in the [Mutual Obligations Accounting Agreement]({{site.url}}{{site.baseurl}}/legal_agreement_en)).
 
-## 1\. General Provisions
+### 1\. General Provisions
 
 1.1\. MAU Accounts DAO is committed to protecting the privacy of all Participants. Before using the Services or accessing the Site and other information and/or technical systems and resources supported by MAU Accounts DAO (hereinafter referred to as the "Resources"), you should carefully read this Privacy Policy to familiarize yourself with your rights and what we can do with your personal information.
 
@@ -16,7 +16,7 @@ MAU Accounts DAO adopts the following privacy policy and rules for handling pers
 
 1.3\. In the subsequent text of the Privacy Policy, MAU Accounts DAO is referred to as "we", the user and/or Participant as "you", or other second person pronouns.
 
-## 2\. Purposes of the Privacy Policy
+### 2\. Purposes of the Privacy Policy
 
 The Privacy Policy defines the types of personal data that we may collect and/or use in the course of providing our Services, as well as how we will use and protect this data.
 ## 3\. Your Consent
@@ -77,7 +77,7 @@ We collect your personal data based on:
 
 6.1.6\. Some information we collect about you may include special categories of personal data (such as information about racial or ethnic origin, criminal offenses committed, or suspected criminal offenses). Normally, we request your specific permission to process Personal Data related to these special categories of data. If you do not provide us with this information or object to us processing such information, the consequences may be that we are unable to provide our Services to you.
 
-6.1.7\. If you reside in the EEA and have concerns about our processing of your Personal Data that we cannot resolve through our internal procedures, you have the right to lodge a complaint with the data protection authority in your place of residence. Contact information for your local data protection authority can be found at: http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm.
+6.1.7\. If you reside in the EEA and have concerns about our processing of your Personal Data that we cannot resolve through our internal procedures, you have the right to lodge a complaint with the data protection authority in your place of residence. Contact information for your local data protection authority can be found at: [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm].
 
 6.2\. We will consider all requests and complaints received and provide you with timely responses. We may ask you to provide a valid copy of an identification document so that we can fulfill our security obligations and prevent unauthorized disclosure of data. We have the right to charge you a reasonable administrative fee if your request for access to data is clearly unjustified or does not comply with our obligations, or if you ask us to provide additional copies of your Personal Data.
 
