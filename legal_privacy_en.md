@@ -19,7 +19,8 @@ MAU Accounts DAO adopts the following privacy policy and rules for handling pers
 ### 2\. Purposes of the Privacy Policy
 
 The Privacy Policy defines the types of personal data that we may collect and/or use in the course of providing our Services, as well as how we will use and protect this data.
-## 3\. Your Consent
+
+### 3\. Your Consent
 
 We recommend that you carefully read and understand the terms of this Privacy Policy. By accessing our Resources, regardless of whether you have joined the [Mutual Obligations Accounting Agreement]({{site.url}}{{site.baseurl}}/legal_agreement_en) and thereby become a Participant, you express your consent, understanding, and confirmation of the following:
 
@@ -33,7 +34,7 @@ We recommend that you carefully read and understand the terms of this Privacy Po
 
 3.5\. You agree that our partners, affiliated entities, and employees may contact you in connection with services and products that, in our reasonable opinion, may be of interest to you (unless you have expressly stated in writing that you do not wish to receive such information).
 
-## 4\. Information Collected
+### 4\. Information Collected
 
 4.1\. When you use the Resources, you agree to allow us to use cookies to track all of your actions and collect and store all information you leave on the Resources, including, but not limited to, your IP address, location, and other information. For more information on how we use cookies, please refer to our [Cookie Policy]({{site.url}}{{site.baseurl}}/cookies).
 
@@ -47,7 +48,7 @@ We recommend that you carefully read and understand the terms of this Privacy Po
 
 4.4\. If you visit any links to third-party websites, pages, content, or platforms that may be accessible through links on the Resources or any link from any of our third-party partners, you must and will be required to agree to and comply with the separate and independent privacy policy of such third parties. This Privacy Policy does not apply to third-party websites, and we do not take any responsibility for the content and activities of such sites, operated by third parties.
 
-## 5\. Methods of Information Collection
+### 5\. Methods of Information Collection
 
 We collect your personal data based on:
 
@@ -61,7 +62,7 @@ We collect your personal data based on:
 
 5.5\. Information collected from publicly available sources.
 
-## 6\. Residents of the European Economic Area (EEA)
+### 6\. Residents of the European Economic Area (EEA)
 
 6.1\. Regarding Personal Data protected by the General Data Protection Regulation (GDPR), you have a number of legal rights related to the Personal Data you store with us, including:
 
@@ -77,13 +78,13 @@ We collect your personal data based on:
 
 6.1.6\. Some information we collect about you may include special categories of personal data (such as information about racial or ethnic origin, criminal offenses committed, or suspected criminal offenses). Normally, we request your specific permission to process Personal Data related to these special categories of data. If you do not provide us with this information or object to us processing such information, the consequences may be that we are unable to provide our Services to you.
 
-6.1.7\. If you reside in the EEA and have concerns about our processing of your Personal Data that we cannot resolve through our internal procedures, you have the right to lodge a complaint with the data protection authority in your place of residence. Contact information for your local data protection authority can be found at: [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm].
+6.1.7\. If you reside in the EEA and have concerns about our processing of your Personal Data that we cannot resolve through our internal procedures, you have the right to lodge a complaint with the data protection authority in your place of residence. Contact information for your local data protection authority can be found at: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
 
 6.2\. We will consider all requests and complaints received and provide you with timely responses. We may ask you to provide a valid copy of an identification document so that we can fulfill our security obligations and prevent unauthorized disclosure of data. We have the right to charge you a reasonable administrative fee if your request for access to data is clearly unjustified or does not comply with our obligations, or if you ask us to provide additional copies of your Personal Data.
 
 6.3\. To facilitate the provision of Services to customers in the EEA, we request explicit consent for the transfer of Personal Data from the EEA outside this territory. If you are an individual located in the EEA and refuse to give consent for such transfer, you will no longer be able to use our Resources and Services.
 
-## 7\. Use of Cookies
+### 7\. Use of Cookies
 
 7.1\. When you visit our Resources, we use Google Analytics, which operates with the help of cookies, to monitor our performance and check the effectiveness of online advertising. A cookie is a small set of data that is sent to your browser and stored in the permanent memory of your computer. Cookies can only be saved on your computer when you use it to access our Resources.
 
@@ -91,7 +92,7 @@ We collect your personal data based on:
 
 7.3\. Cookies allow the technical system supporting the operation of the Resources and/or the provision of Services to recognize your browser and to store and retrieve the stored information. They cannot be used to obtain your data stored in the permanent memory of your computer, your email address, or your personal data. Most browsers support receiving cookies. You can configure your browser to reject cookies or immediately notify you when you are downloading cookies. However, if you configure your browser to disable cookies, you may not be able to use certain features of our Resources. For more information on how we use cookies and how you can disable them, please refer to our [Cookie Policy]({{site.url}}{{site.baseurl}}/cookies).
 
-## 8\. Use of Collected Personal Data
+### 8\. Use of Collected Personal Data
 
 8.1\. We use the information we collect from you for the following purposes or in the following ways:
 
@@ -139,7 +140,7 @@ We collect your personal data based on:
 
 8.3.4\. to competent authorities and government bodies, officials, regulatory authorities, or other third parties – for the purpose of complying with the legislation of relevant jurisdictions, court orders, or other jurisdictional authorities.
 
-## 9\. Data Protection
+### 9\. Data Protection
 
 9.1\. We take appropriate physical, electronic, managerial, and technical measures to protect and ensure the security of your Personal Data. We will do everything possible to ensure that any Personal Data collected through our Resources is not accessible to any third party not affiliated with us. The security measures we can take include, among others:
 
@@ -157,7 +158,7 @@ We collect your personal data based on:
 
 9.3\. Despite the aforementioned technical and security measures, we cannot guarantee that the information transmitted through the Resources is absolutely secure, so we cannot guarantee that the Personal Data you provide us will always be secure. We are not responsible for any loss or damage arising from or caused by any event that may occur in connection with unauthorized access to your Personal Data, and we are not responsible for compensating for such losses or damages.
 
-## 10\. Data Storage
+### 10\. Data Storage
 
 10.1\. We strive to maintain the relevance, reliability, accuracy, completeness, and timeliness of the personal information we store, as well as to protect its confidentiality and security.
 
@@ -167,17 +168,17 @@ We collect your personal data based on:
 
 10.4\. Upon the expiry of the retention period, we will securely delete or destroy the stored data and require the same from our contractors or third-party providers.
 
-## 11\. Minors
+### 11\. Minors
 
 11.1\. Our Resources and Services are not intended for individuals who can be defined as minors according to the applicable legislation of the respective jurisdictions. Therefore, if you are under 18 years old, immediately cease any access to our Resources and Services. We reserve the right (but not the obligation) to request proof that you are over 18 at any time. If you are under 18 or if we have reason to suspect that you are under 18 and you cannot prove otherwise, all your use of the Services and access to our Resources, including but not limited to registration, subscriptions, and purchases from us (if available) will be immediately terminated, and you will not be eligible for any refunds.
 
 11.2\. We do not knowingly collect Personal data from minors. However, in the conditions of the internet, we cannot determine from our end whether individuals are minors or not. Therefore, parents or guardians are responsible for ensuring that their minors do not access our Resources, use our Services, download Wallets and other applications, access our respective applications, email us, or access our applications by providing us with Personal data without the consent of their parents/guardians. If a parent or guardian becomes aware that a minor has accessed our Sites or provided us with Personal data without their consent, he or she must immediately contact us at [legal@mauaccounts.com](mailto:legal@mauaccounts.com).
 
-## 12\. Modification to the Privacy Policy
+### 12\. Modification to the Privacy Policy
 
 For the sake of convenience and to comply with any changes in the legislation of the respective jurisdictions, we reserve the right to make changes to this Privacy Policy from time to time at our sole discretion without prior notice to you. We may inform you of the changes made to the Privacy Policy by updating and publishing the effective date of the new versions of the Privacy Policy. We may also occasionally issue a notice informing you of the change made to the Privacy Policy, but this is not an obligation for us. You agree to regularly review the Privacy Policy, and if you do not agree with such updates, you must immediately cease access to the Resources and/or use of the Services. You agree that you are solely responsible for being informed of any changes by regularly reviewing this Privacy Policy on our Resources, including the Site.
 
-## 13\. Communications with Us and Resolution of Issues
+### 13\. Communications with Us and Resolution of Issues
 
 13.1\. If you have any questions or comments, you can send an email to [legal@mauaccounts.com](mailto:legal@mauaccounts.com). This is the only valid and official email address through which we communicate with you. We are not responsible for any actions or omissions that do not use this method of communication.
 
