@@ -1,5 +1,5 @@
 ---
-title: Mutual Obligation Accounting Agreement
+title: Mutual Obligations Accounting Agreement
 layout: page
 nav_exclude: true
 ---

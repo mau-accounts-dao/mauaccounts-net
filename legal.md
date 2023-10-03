@@ -7,9 +7,9 @@ MAU Accounts DAO undertakes to facilitate compliance with the General Data Prote
 
 MAU Accounts DAO does not conduct any activities under the jurisdiction of the United States and does not provide services to citizens and legal entities under the jurisdiction of the United States. If you are a citizen or a legal entity of the United States, you cannot use our services. This condition has legal effect as a temporary one, and is associated with the uncertainty of the regulatory and legal position of the competent authorities of the specified jurisdiction at the present time, and may be subject to revision in the future.
 
-General Terms of our Services are based on  [Mutual Obligation Accounting Agreement]({{site.url}}{{site.baseurl}}/legal_agreement_en)
+General Terms of our Services are based on [Mutual Obligations Accounting Agreement]({{site.url}}{{site.baseurl}}/legal_agreement_en). The actions taken to use the Services, as well as the actions taken by exchanging electronic documents in the Blockchain, Repository, information systems with accounting units representing the volume of mutual obligations determined in this Agreement (concluding actions), are equivalent to concluding the Agreement in simple written form. By performing such actions, the Participant confirms that they have read, understood, and fully agree with the terms of the Agreement, which are periodically updated and corrected.
 
-In our activities, we adhere, among other things, to these Agreements:
+In our activities, we adhere, among other things, to these Agreements and Policies:
 
 1\. [Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements]({{site.url}}{{site.baseurl}}/legal_prevention_unlawful_en)
 
