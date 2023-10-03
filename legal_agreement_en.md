@@ -20,7 +20,7 @@ MAU Accounts DAO, together with the participants who have joined in accordance w
 
 *Services* — services, features, and capabilities provided by MAU Accounts DAO, offered on the Site, through robots, other information and technical systems, including, but not limited to, services for accounting mutual obligations of the Participants, the volume of which is determined in this Agreement,
 
-*Site* — the website on the internet at <mauaccounts.net>
+*Site* — the website on the internet at [mauaccounts.net](https://mauaccounts.net)
 
 ### 2\. Subject of the Agreement
 
@@ -32,13 +32,13 @@ MAU Accounts DAO, together with the participants who have joined in accordance w
 
 2.4\. MAU Accounts DAO organizes opportunities for Participants to exchange and mutually assign rights to mutual obligations using the technical means of the Blockchain and/or Repository. These opportunities may be limited in cases of:
 
-    • requirements of international legal norms, as well as local jurisdiction norms related to the activities of the Participants, relevant decisions of jurisdictional authorities and regulators, compliance with which is mandatory for the Participants,
+• requirements of international legal norms, as well as local jurisdiction norms related to the activities of the Participants, relevant decisions of jurisdictional authorities and regulators, compliance with which is mandatory for the Participants,
 
-    • technical requirements and limitations of the used Blockchain and/or Repository,
+• technical requirements and limitations of the used Blockchain and/or Repository,
 
-    • obligations of Participants stipulated in the [Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements]({{site.url}}{{site.baseurl}}/legal_prevention_unlawful_en),
+• obligations of Participants stipulated in the [Agreement on the Prevention of Unlawful Activities Using MAU Services and Agreements]({{site.url}}{{site.baseurl}}/legal_prevention_unlawful_en),
 
-    • other cases specified in this Agreement and additional agreements between the Participants.
+• other cases specified in this Agreement and additional agreements between the Participants.
 
 2.5\. In the case of using one or more Blockchains and/or one or more Repositories, MAU Accounts DAO undertakes to organize the possibility of transferring records of mutual obligations of the Participants regarding Tokens between available Blockchains and/or Repositories.
 
@@ -80,27 +80,27 @@ MAU Accounts DAO, together with the participants who have joined in accordance w
 
 6.2\. Except as otherwise provided in this Agreement, MAU Accounts DAO shall not be liable and assumes no responsibility for any losses, damages, accidents, expenses, or any other expenditures (including, without limitation, legal costs, attorney fees, or expenses related to any claim or lawsuit), as well as for any direct or indirect losses, lost profits, loss of data, failure or malfunction of information and/or technical systems, and all other losses (collectively referred to here as "Losses") directly or indirectly arising from or related to:
 
-    • this Agreement,
+• this Agreement,
 
-    • the Site and its use,
+• the Site and its use,
 
-    • the use of the Services by you,
+• the use of the Services by you,
 
-    • any inaccurate, misleading, or incomplete statement made by MAU Accounts DAO and/or posted on the Site, caused by the negligence of MAU Accounts DAO or any other reason;
+• any inaccurate, misleading, or incomplete statement made by MAU Accounts DAO and/or posted on the Site, caused by the negligence of MAU Accounts DAO or any other reason;
 
-    • any failure, delay, malfunction, interruption, or decision by MAU Accounts DAO in working with the Blockchain, Repository, Site, or providing any Service;
+• any failure, delay, malfunction, interruption, or decision by MAU Accounts DAO in working with the Blockchain, Repository, Site, or providing any Service;
 
-    • any stolen, lost, or unauthorized use of software information for Token operations (Wallet), any security breach or data breach related to Wallet information, as well as any criminal actions or actions by third parties affecting MAU Accounts DAO or any of its partners;
+• any stolen, lost, or unauthorized use of software information for Token operations (Wallet), any security breach or data breach related to Wallet information, as well as any criminal actions or actions by third parties affecting MAU Accounts DAO or any of its partners;
 
-    • any offer, representation, proposal, statement, or claim made against MAU Accounts DAO, the Site, or any Service by any partner of MAU Accounts DAO;
+• any offer, representation, proposal, statement, or claim made against MAU Accounts DAO, the Site, or any Service by any partner of MAU Accounts DAO;
 
-    • any delay in withdrawal or redemption or loss of value of Tokens or reserves supporting such Tokens, arising from the bankruptcy or insolvency of any bank, custodian, trustee, borrower, or payment system holding or processing assets supporting the Tokens, or as a result of theft of such assets or as a result of freezing, arrest, or other actions by competent authorities of any jurisdiction;
+• any delay in withdrawal or redemption or loss of value of Tokens or reserves supporting such Tokens, arising from the bankruptcy or insolvency of any bank, custodian, trustee, borrower, or payment system holding or processing assets supporting the Tokens, or as a result of theft of such assets or as a result of freezing, arrest, or other actions by competent authorities of any jurisdiction;
 
-    • the decision of MAU Accounts DAO to support or not support a specific Blockchain or protocol, information or technical system;
+• the decision of MAU Accounts DAO to support or not support a specific Blockchain or protocol, information or technical system;
 
-    • the Participant's inability to transfer his Tokens to another Blockchain or Repository;
+• the Participant's inability to transfer his Tokens to another Blockchain or Repository;
 
-    • any other person using the Participant's Tokens, Wallet, account, or password, with or without the knowledge of the Participant.
+• any other person using the Participant's Tokens, Wallet, account, or password, with or without the knowledge of the Participant.
 
 6.3\. Each Participant agrees to release MAU Accounts DAO and other Participants from liability for any Losses, and undertakes to indemnify, defend, and hold MAU Accounts DAO and other Participants harmless from all Losses. The above limitations of liability apply regardless of whether the alleged liability or losses are based on contract, negligence, tort, unjust enrichment, violation of laws or regulations, or any other basis, even if Participants have been notified or should have known of the possibility of such losses and damages, and regardless of the success or effectiveness of any other legal remedies.
 
