@@ -3,7 +3,7 @@ title: About cookies and cookie consent
 layout: page
 ---
 
-## What are cookies? 
+### What are cookies? 
 
 Cookies are small text files that a website stores on your computer or mobile device when you visit the site.
 
@@ -11,7 +11,7 @@ They make your online experience easier by saving browsing information. With coo
 
 Cookies can also be used to establish statistics about the browsing experience and to show target ads. 
 
-## Types of cookies 
+### Types of cookies 
 
 In general, cookies can be classified by:
 
@@ -31,13 +31,13 @@ In general, cookies can be classified by:
 - Statistics cookies help website owner to collect statistic data and understand how visitors interact with website
 - Marketing cookies track user's online activity to help advertisers deliver more relevant ad. These are almost always third-party persistent cookies 
 
-## Consent to use cookies 
+### Consent to use cookies 
 
 Many jurisdictions require that website owners obtain opt-in user consent before using cookies that are not strictly necessary. This is needed to be GDPR compliance and you give such consent when you click on the corresponding button of the cookie consent banner.
 
 If you refuse, cookies will not be set. 
 
-## How to manage cookie settings 
+### How to manage cookie settings 
 
 Most web browsers allow you to manage your cookie preferences through the browser settings.
 
