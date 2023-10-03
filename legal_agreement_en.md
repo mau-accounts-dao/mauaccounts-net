@@ -102,7 +102,7 @@ MAU Accounts DAO, together with the participants who have joined in accordance w
 
 • any other person using the Participant's Tokens, Wallet, account, or password, with or without the knowledge of the Participant.
 
-6.3\. Each Participant agrees to release MAU Accounts DAO and other Participants from liability for any Losses, and undertakes to indemnify, defend, and hold MAU Accounts DAO and other Participants harmless from all Losses. The above limitations of liability apply regardless of whether the alleged liability or losses are based on contract, negligence, tort, unjust enrichment, violation of laws or regulations, or any other basis, even if Participants have been notified or should have known of the possibility of such losses and damages, and regardless of the success or effectiveness of any other legal remedies.
+6.3\. Each Participant agrees to release MAU Accounts DAO and its partners from any liability for any Losses and also undertakes to indemnify, preserve and indemnify MAU Accounts DAO and its partners from any Losses. The above-mentioned limitations of liability shall apply regardless of whether the alleged liability or losses are based on contract, negligence, gross negligence, tort, unjust enrichment, violation of laws or regulations, or any other basis, even if MAU Accounts DAO and/or its partners have been notified or should have been aware of the possibility of such losses and damages, and without regard to the success or effectiveness of any other means of legal protection.
 
 ### 7\. Force Majeure
 
