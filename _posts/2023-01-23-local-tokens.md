@@ -1,7 +1,8 @@
 ---
 title: Запуск токенов USDMAU и MAU
 layout: post
-post-image: "https://images.pexels.com/photos/3871747/pexels-photo-3871747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+#post-image: "https://images.pexels.com/photos/3871747/pexels-photo-3871747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+post-image: "https://mauaccounts.net/assets/images/pexels/pexels-photo-3871747.jpeg"
 description: Предлагаем Вашему вниманию наши учётные единицы
 tags:
 - MAU

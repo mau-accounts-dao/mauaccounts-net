@@ -1,7 +1,8 @@
 ---
 title: Начало работы. Установка кошельков. Инструкции
 layout: post
-post-image: "https://images.pexels.com/photos/5126268/pexels-photo-5126268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940dpr=2"
+#post-image: "https://images.pexels.com/photos/5126268/pexels-photo-5126268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940dpr=2"
+post-image: "https://mauaccounts.net/assets/images/pexels/pexels-photo-5126268.jpeg"
 description: Кратко опишем начало работы с нашими токенами и расскажем, как установить кошелёк
 tags:
 - MAU
