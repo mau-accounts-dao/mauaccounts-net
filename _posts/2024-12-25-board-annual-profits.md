@@ -1,8 +1,7 @@
 ---
 title: Resolution of the Board of Felines dated December 25, 2024
 layout: post
-#post-image: "https://images.pexels.com/photos/3871747/pexels-photo-3871747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-#post-image: "https://mauaccounts.net/assets/images/pexels/pexels-photo-3871747.jpeg"
+post-image: "https://mauaccounts.net/assets/images/a-ginger-tabby-cat-wearing-a-red-tie-and-sitting_1.jpeg"
 description: Recommendation on the Allocation of Annual Profits.
 tags:
 - MAU
