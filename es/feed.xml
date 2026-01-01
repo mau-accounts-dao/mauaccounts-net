@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mauaccounts.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mauaccounts.net/es/" rel="alternate" type="text/html" /><updated>2026-01-01T02:28:01+00:00</updated><id>https://mauaccounts.net/feed.xml</id><title type="html">MAU Accounts DAO</title><subtitle>MAU Accounts DAO — A decentralized ecosystem for mutual obligations and horizontal economy</subtitle><entry xml:lang="es"><title type="html">Actualización del sitio web de MAU Accounts DAO</title><link href="https://mauaccounts.net/es/news/website-update" rel="alternate" type="text/html" title="Actualización del sitio web de MAU Accounts DAO" /><published>2025-12-29T00:00:00+00:00</published><updated>2025-12-29T00:00:00+00:00</updated><id>https://mauaccounts.net/news/website-update</id><content type="html" xml:base="https://mauaccounts.net/news/website-update"><![CDATA[<p>Hemos actualizado el sitio web oficial de <strong>MAU Accounts DAO</strong>.</p>
+
+<p>En esta nueva versión, el sitio se ha vuelto más estructurado y fácil de navegar. Hemos revisado los textos, clarificado la descripción del sistema y del ecosistema, y organizado los materiales legales e informativos de una forma más transparente y accesible. Nuestro objetivo es simple: hablar de manera clara y directa sobre lo que hacemos, cómo lo hacemos y los principios sobre los cuales se construye MAU Accounts DAO.</p>
+
+<p>Fue especialmente importante para nosotros hacer que el sitio web esté disponible <strong>en los seis idiomas oficiales de las Naciones Unidas</strong>. Esta es una decisión deliberada. MAU Accounts DAO nunca fue concebido como un proyecto cerrado “solo para iniciados”. Nos dirigimos a las Personas más allá de fronteras, jurisdicciones y burbujas informativas, y creemos que es esencial hablar a la Humanidad en un idioma que sea comprensible — tanto conceptual como literalmente.</p>
+
+<p>El sitio web actualizado refleja nuestra posición:</p>
+<ul>
+  <li>apertura en lugar de ruido de marketing,</li>
+  <li>autonomía personal y soberanía individual en lugar de centralización excesiva,</li>
+  <li>reglas claras en lugar de condiciones ocultas.</li>
+</ul>
+
+<p>Continuaremos desarrollando el sitio web gradualmente y añadiendo nuevos materiales a medida que el ecosistema crezca. Sin prisas innecesarias, y sin intentar parecer algo que no somos.</p>]]></content><author><name></name></author><category term="sitio web" /><category term="ecosistema" /><category term="Humanidad" /><summary type="html"><![CDATA[Hemos actualizado el sitio web oficial de MAU Accounts DAO]]></summary></entry><entry xml:lang="es"><title type="html">Lanzamiento de MAU Merchant</title><link href="https://mauaccounts.net/es/news/mau-merchant-launch" rel="alternate" type="text/html" title="Lanzamiento de MAU Merchant" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>https://mauaccounts.net/news/mau-merchant-launch</id><content type="html" xml:base="https://mauaccounts.net/news/mau-merchant-launch"><![CDATA[<p>Hemos lanzado <strong><a href="https://merchant.mauaccounts.net">MAU Merchant</a></strong> — una plataforma de procesamiento de pagos para aceptar criptomonedas y pagos tokenizados dentro del ecosistema MAU Accounts DAO.</p>
+
+<p>MAU Merchant fue diseñado como una herramienta práctica para empresas que operan en la economía real y buscan evitar la dependencia de intermediarios de pago centralizados y frágiles. No es un experimento ni una demostración tecnológica, sino un sistema listo para producción construido para uso en el mundo real.</p>
+
+<p>Desde la perspectiva del usuario, MAU Merchant aborda una necesidad directa: aceptar pagos a través de múltiples blockchains y activos mientras se recibe un resultado predecible — sin tener que gestionar una infraestructura cripto compleja.</p>
+
+<p>La plataforma soporta un <strong>modelo multi-blockchain</strong> y una arquitectura basada en cuentas. Esto permite a los comerciantes aceptar pagos de diferentes redes a través de un único panel de control, sin gestionar manualmente billeteras separadas ni lidiar con contabilidad fragmentada. La creación y configuración de billeteras se maneja automáticamente dentro de las blockchains soportadas.</p>
+
+<p>La seguridad fue una preocupación primordial de diseño desde el principio. Está integrada directamente en la arquitectura a través de la reducción de riesgos, la reducción de la dependencia de la confianza depositada en componentes individuales, y la minimización de datos sensibles y secretos que necesitan ser almacenados o procesados. Esta es una elección de diseño fundamental, no una característica opcional.</p>
+
+<p>MAU Merchant soporta blockchains modernas con características económicas y tecnológicas diversas — incluyendo redes con transacciones rápidas y de bajo costo, activos de la economía horizontal, y monedas enfocadas en privacidad donde la confidencialidad es una propiedad central del protocolo. Este enfoque permite a las empresas elegir herramientas que son <strong>apropiadas</strong>, en lugar de simplemente estar de moda.</p>
+
+<p>La plataforma incluye:</p>
+
+<ul>
+  <li>APIs y webhooks para integración backend,</li>
+  <li>formularios de pago embebibles para sitios web,</li>
+  <li>soporte multilingüe y localización,</li>
+  <li>notificaciones multicanal para eventos de pago.</li>
+</ul>
+
+<p>MAU Merchant es parte de la arquitectura más amplia de MAU Accounts DAO y se integra naturalmente con otros servicios del ecosistema. Al mismo tiempo, no está limitado a proyectos internos y puede ser utilizado por comerciantes externos y servicios que comparten nuestro enfoque hacia la autonomía, transparencia y responsabilidad tecnológica.</p>
+
+<p>Estamos desarrollando MAU Merchant de manera deliberada y sin prisa, enfocándonos en la estabilidad, previsibilidad y valor comercial real. La escalabilidad y expansión de características seguirán al uso práctico — no lo precederán.</p>]]></content><author><name></name></author><category term="MAU Merchant" /><category term="procesamiento de pagos" /><category term="pagos cripto" /><category term="multiblockchain" /><category term="plataforma merchant" /><category term="infraestructura financiera descentralizada" /><category term="economía horizontal" /><category term="MAU Accounts DAO" /><summary type="html"><![CDATA[Lanzamiento de la plataforma de procesamiento de pagos MAU Merchant]]></summary></entry><entry xml:lang="es"><title type="html">Lanzamiento de MAU ID</title><link href="https://mauaccounts.net/es/news/mau-id-launch" rel="alternate" type="text/html" title="Lanzamiento de MAU ID" /><published>2025-06-26T00:00:00+00:00</published><updated>2025-06-26T00:00:00+00:00</updated><id>https://mauaccounts.net/news/mau-id-launch</id><content type="html" xml:base="https://mauaccounts.net/news/mau-id-launch"><![CDATA[<p>Hemos lanzado <strong><a href="https://id.mauaccounts.net">MAU ID</a></strong> — nuestro propio sistema de identificación y autenticación dentro del ecosistema MAU Accounts DAO.</p>
+
+<p>Este proyecto no fue creado como un intento de inventar otro “nuevo internet”. En cambio, es una respuesta tranquila y deliberada a lo que la identidad digital se ha convertido cada vez más en los últimos años. Con mayor frecuencia, se ofrece el mismo modelo: un proveedor centralizado, una única clave “para todo”, amplia recopilación de datos y una pérdida gradual del control del usuario sobre su propia identidad digital.</p>
+
+<p>MAU ID está construido sobre principios diferentes.</p>
+
+<p>Deliberadamente no seguimos el camino de la hipercentralización y no pretendemos convertirnos en un proveedor de identidad universal para todos. MAU ID es parte de un modelo autónomo y orientado a la red en el que la identidad sigue siendo una herramienta del usuario, no una palanca de control externo. Esta no es una descentralización a nivel de protocolo o impulsada por blockchain. Es una descentralización de otro tipo — organizacional y basada en valores — expresada a través de la arquitectura del sistema, las reglas de acceso y la forma en que se tratan los datos.</p>
+
+<p>Desde una perspectiva práctica, MAU ID aborda necesidades muy terrenales. Los usuarios pueden registrarse, iniciar sesión en los servicios del ecosistema y gestionar sus sesiones y métodos de autenticación utilizando mecanismos familiares y comprensibles — nombres de usuario, contraseñas y claves de acceso modernas. Sin datos biométricos. Sin dependencia de monopolios de identidad globales. Sin condiciones ocultas.</p>
+
+<p>Internamente, MAU ID está construido sobre una solución madura, de grado industrial y abierta que ha sido probada a lo largo del tiempo y el uso en el mundo real. Elegimos intencionalmente la fiabilidad sobre la experimentación, porque la identidad no es un área para el aventurerismo tecnológico. Es un fundamento sobre el cual se construye la confianza.</p>
+
+<p>En un sentido más amplio, MAU ID puede verse como uno de los puentes entre Web 2.0 y Web 3.0. Permite a las personas vivir en la web familiar, usar sitios web y servicios ordinarios, mientras se alejan gradualmente de los modelos de control externo total hacia sistemas más autónomos y orientados al usuario.</p>
+
+<p>Es importante enfatizar que <strong>MAU ID no está diseñado únicamente para nuestros proyectos internos</strong>. Estamos abiertos a ofrecerlo a miembros de la comunidad y proyectos independientes que deseen usar MAU ID en sus propios sitios web, aplicaciones y servicios como una base lista para usar para la gestión segura, integral y manejable de identidad y acceso.</p>
+
+<p>Con MAU ID, puedes:</p>
+
+<ul>
+  <li>usar un identificador independiente que no está vinculado a corporaciones globales,</li>
+  <li>beneficiarte de un sistema maduro y de grado de producción sin tener que construir y mantener infraestructura compleja tú mismo,</li>
+  <li>mantener el control sobre las reglas de acceso, políticas de seguridad y el ciclo de vida de las cuentas de usuario.</li>
+</ul>
+
+<p>MAU ID ya está en uso dentro del ecosistema MAU Accounts DAO y servirá como base para futuros servicios y proyectos. Continuamos desarrollándolo con cuidado y sin prisa — de la manera que prefieren los Gatos: primero estabilidad, después escala.</p>]]></content><author><name></name></author><category term="MAU ID" /><category term="identificación" /><category term="autenticación" /><category term="ecosistema" /><category term="descentralización" /><summary type="html"><![CDATA[Hemos lanzado MAU ID — nuestro propio sistema de identificación y autenticación dentro del ecosistema MAU Accounts DAO]]></summary></entry><entry xml:lang="es"><title type="html">Resolución de la Junta de Felinos del 25 de diciembre de 2024</title><link href="https://mauaccounts.net/es/news/board-annual-profits" rel="alternate" type="text/html" title="Resolución de la Junta de Felinos del 25 de diciembre de 2024" /><published>2024-12-25T00:00:00+00:00</published><updated>2024-12-25T00:00:00+00:00</updated><id>https://mauaccounts.net/news/board-annual-profits</id><content type="html" xml:base="https://mauaccounts.net/news/board-annual-profits"><![CDATA[<h3 id="resolución-de-la-junta-de-felinos-del-25-de-diciembre-de-2024">Resolución de la Junta de Felinos del 25 de diciembre de 2024</h3>
+
+<p><strong>Tema:</strong> Recomendación sobre la Distribución de Beneficios Anuales.</p>
+
+<p><strong>Contenido:</strong></p>
+
+<p>La Junta de Felinos recomienda destinar el 40% del beneficio anual de 2024 de MAU Accounts DAO para una distribución airdrop a los titulares de tokens MAU (excluyendo tokens no distribuidos). Basándose en el precio de mercado del token MAU a fecha del 24 de diciembre de 2024, se proyecta que el rendimiento porcentual anual (APY) sea del 289,81%. Esta medida tiene como objetivo incentivar a los titulares de tokens y aumentar el atractivo de los tokens MAU.</p>
+
+<p>Para el desarrollo de MAU Accounts DAO, se propone destinar el 50% de los beneficios. Estos fondos se utilizarán para expandir las actividades del DAO, implementar proyectos innovadores, realizar iniciativas de marketing, desarrollar nuevos productos y entrar en nuevos mercados. Esto permitirá a MAU Accounts DAO fortalecer su posición en el mercado y asegurar un crecimiento a largo plazo.</p>
+
+<p>El 10% restante de los beneficios se planea destinar a mejorar la estabilidad financiera. Estos fondos se asignarán para aumentar la sobrecolateralización de los tokens USDMAU y otros tokens emitidos, minimizando los riesgos financieros y mejorando la liquidez.</p>
+
+<p>Este plan de distribución de beneficios considera los intereses de los Participantes, los objetivos estratégicos de MAU Accounts DAO y la necesidad de mantener una estabilidad financiera sostenible.</p>
+
+<p>La Junta de Felinos ha propuesto el 25 de diciembre de 2024 como la fecha de registro para determinar las cuentas elegibles para recibir el airdrop.</p>
+
+<p>Esta resolución de la Junta de Felinos se presenta para revisión y aprobación a través del Procedimiento de Consenso de MAU Accounts DAO.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="beneficio anual" /><category term="Junta de Felinos" /><category term="airdrop" /><summary type="html"><![CDATA[Recomendación sobre la Distribución de Beneficios Anuales.]]></summary></entry><entry xml:lang="es"><title type="html">Primeros pasos. Instalación de billeteras. Instrucciones</title><link href="https://mauaccounts.net/es/news/stellar-wallets" rel="alternate" type="text/html" title="Primeros pasos. Instalación de billeteras. Instrucciones" /><published>2023-01-30T00:00:00+00:00</published><updated>2023-01-30T00:00:00+00:00</updated><id>https://mauaccounts.net/news/stellar-wallets</id><content type="html" xml:base="https://mauaccounts.net/news/stellar-wallets"><![CDATA[<h3 id="la-blockchain-plataforma-en-la-que-están-implementados-nuestros-tokens">La Blockchain (Plataforma) en la que están implementados nuestros tokens</h3>
+
+<p>Actualmente, la base tecnológica para nuestros tokens USDMAU y MAU es la plataforma Stellar. Tiene capacidades avanzadas, es fácil de usar y requiere costos mínimos (en forma de comisiones de transferencia, etc.).</p>
+
+<p>Después de crear por primera vez su cuenta en la plataforma Stellar, no puede usarla todavía porque la cuenta necesita ser activada. Después de la activación, también debe agregar nuestros tokens a la lista de activos utilizados por su cuenta, es decir, abrir una línea de confianza para ellos. Además, cualquier operación requiere pagar comisiones en la criptomoneda nativa de Stellar: Lumens (XLM). Todos estos costos son mínimos, por lo que nuestro bot le enviará algunas monedas gratis; solo proporcione su número de cuenta (clave pública) — <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>.</p>
+
+<h3 id="elegir-e-instalar-una-billetera">Elegir e instalar una billetera</h3>
+
+<p>Para usar los tokens USDMAU y MAU — recibir pagos, realizar pagos, intercambiar, verificar su saldo — necesita instalar una aplicación de billetera. Hay varias disponibles, y puede elegir la que mejor le convenga.</p>
+
+<h3 id="lobstr---httpslobstrco">Lobstr - <a href="https://lobstr.co/">https://lobstr.co/</a></h3>
+
+<p>La billetera más conveniente y avanzada, disponible tanto como versión web como aplicación para teléfonos (iPhone y Android).</p>
+
+<p>La billetera requiere una dirección de correo electrónico durante el registro.</p>
+
+<p>Esta billetera le permite intercambiar varios tokens entre sí — Intercambiar activos.</p>
+
+<p>Descargue las <a href="https://mauaccounts.net/files/ru_lobstr_mobile_manual.pdf">instrucciones breves</a> para instalar la billetera Lobstr en un teléfono móvil.</p>
+
+<p>Después de instalar Lobstr:</p>
+
+<p>1. ¡Asegúrese de guardar su frase de recuperación de la billetera, guárdela en un lugar inaccesible para otros! Este es el equivalente de su clave privada para los fondos en su cuenta.</p>
+
+<p>2. Puede encontrar su clave pública — que es la dirección de su billetera donde recibirá tokens — desde el menú principal de la billetera presionando Recibir -&gt; Dirección Stellar -&gt; Copiar o Compartir. La dirección de la billetera es una cadena que comienza con <code class="language-plaintext highlighter-rouge">G...</code>
+Ahora vaya al bot de Telegram <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>. Seleccione el comando <code class="language-plaintext highlighter-rouge">/nov</code> y dígale al bot la dirección de su billetera. Recibirá las primeras monedas Stellar (XLM) para activar su cuenta y podrá comenzar a usar su billetera.</p>
+
+<p>3. Vaya a la lista de tokens (Activos). Aquí verá el botón Agregar Activo. Presiónelo para agregar nuestros tokens.</p>
+
+<p>En la barra de búsqueda, ingrese MAU — nuestro token MAU (mauaccounts.net) aparecerá en la lista. Puede haber otros tokens con nombres similares, posiblemente falsificaciones emitidas por otra persona. No los agregue. Haga clic en el botón Agregar junto a nuestro token MAU (mauaccounts.net). La billetera le mostrará una advertencia; aquí verifique la dirección del Emisor con los primeros y últimos caracteres de la dirección del emisor de nuestros tokens — MAU Accounts DAO — <code class="language-plaintext highlighter-rouge">GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB</code>, y el dominio del Emisor — <code class="language-plaintext highlighter-rouge">mauaccounts.net</code></p>
+
+<p>Haga clic en Confirmar y Proceder, luego Agregar Activo. El token MAU se agregará a su billetera Stellar y su saldo aparecerá en su lista de activos. Podrá usarlo.</p>
+
+<p>4. De manera similar, agregue los tokens USDMAU.</p>
+
+<h3 id="solar---httpssolarwalletio">Solar - <a href="https://solarwallet.io/">https://solarwallet.io/</a></h3>
+
+<p>Esta billetera no solicita información innecesaria y tiene código fuente abierto. También admite un número ilimitado de cuentas. Sin embargo, su funcionalidad es muy limitada y puede no ser tan conveniente.</p>
+
+<p>Después de instalar Solar:</p>
+
+<p>1. Haga clic en “Crear cuenta”. Se creará un par de claves: pública y privada. Guarde su clave privada (por ejemplo, escribiéndola en papel) para no perder el acceso a su dinero en caso de problemas de acceso a la billetera. ¡Nunca la muestre a nadie; la clave privada es literalmente la llave de sus fondos en su cuenta crypto!</p>
+
+<p>2. Ahora tiene una cuenta vacía. Al entrar en ella, presione Recibir para obtener la clave pública — que también es el número de cuenta (dirección de la billetera) a la que se pueden enviar tokens.</p>
+
+<p>Dígasela al bot <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a> para recibir las primeras monedas Stellar (XLM) y comenzar a usar la billetera.</p>
+
+<p>3. Después de recibir XLM, vaya al elemento del menú Activos y Saldos — sus tokens y sus saldos se mostrarán aquí. Presione Agregar Activo a Su Cuenta aquí.</p>
+
+<p>En la barra de búsqueda, ingrese MAU emitido por mauaccounts.net (pueden encontrarse falsificaciones emitidas por otra persona, tenga cuidado, no las agregue). Al hacer clic, se abrirá la descripción del token MAU. Aquí verá CUENTA EMISORA — esta es la clave pública del emisor de nuestros tokens — MAU Accounts DAO — debe ser <code class="language-plaintext highlighter-rouge">GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB</code>.</p>
+
+<p>Haga clic en AGREGAR ACTIVO A LA CUENTA y agregará los tokens MAU a su cuenta y podrá usarlos.</p>
+
+<p>4. De manera similar, agregue los tokens USDMAU.</p>
+
+<h3 id="compra-y-venta-de-tokens-usdmau-y-mau">Compra y venta de tokens USDMAU y MAU</h3>
+
+<p>Siempre puede vender o comprar la cantidad de tokens que necesite usando el intercambio descentralizado interno de Stellar — por ejemplo, en la billetera Stellar, o <a href="https://scopuly.com/trade/USDMAU-XLM/GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB/native">Scopuly</a>. Y en nuestro bot <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>, puede intercambiar USDMAU por otras criptomonedas y monedas fiduciarias.</p>
+
+<p>También puede intercambiar tokens libremente con personas y negocios reales. Para eso fueron creados.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="tokens" /><category term="billetera" /><category term="Lobstr" /><category term="Solarwallet" /><summary type="html"><![CDATA[Una breve descripción de cómo comenzar con nuestros tokens y cómo instalar una billetera]]></summary></entry><entry xml:lang="es"><title type="html">Lanzamiento de los tokens USDMAU y MAU</title><link href="https://mauaccounts.net/es/news/local-tokens" rel="alternate" type="text/html" title="Lanzamiento de los tokens USDMAU y MAU" /><published>2023-01-23T00:00:00+00:00</published><updated>2023-01-23T00:00:00+00:00</updated><id>https://mauaccounts.net/news/local-tokens</id><content type="html" xml:base="https://mauaccounts.net/news/local-tokens"><![CDATA[<p>Las unidades de contabilidad de comunidades locales son una alternativa de calidad al sistema financiero, un nuevo enfoque para la cooperación, el intercambio y el ahorro.</p>
+
+<p>Permítanos contarle más sobre ellas.</p>
+
+<hr />
+
+<h2 id="por-qué-es-necesario">¿Por qué es necesario?</h2>
+
+<p>Históricamente, el dinero ha desempeñado varias funciones esenciales: medir el valor, servir como medio de intercambio y actuar como reserva de valor. El dinero no es un fin en sí mismo, sino a menudo un medio necesario sin el cual ni la seguridad, ni el desarrollo, ni la libertad son posibles.</p>
+
+<p>En el mundo actual, que cambia rápidamente, las formas familiares de dinero están desapareciendo, perdiendo sus funciones. El dinero en el banco realmente no te pertenece: puede estar sujeto a restricciones, confiscación, cambio forzoso o retención en cualquier momento. En diferentes países y jurisdicciones, pueden aplicarse sanciones de legalidad cuestionable pero de indudable efectividad, a menudo de manera indiscriminada, simplemente basándose en el pasaporte o la nacionalidad.</p>
+
+<p>La introducción agresiva de las llamadas “monedas digitales de bancos centrales” (CBDC) nos amenaza a todos con la abolición efectiva del efectivo y otras formas de dinero y su reemplazo por un sustituto en forma de “dinero programable (o gestionado)” que realmente no es dinero, ya que cada paso de su “propietario” condicional será controlado por el emisor, haciendo imposible ni el ahorro fiable ni el intercambio libre. Por lo tanto, las CBDC no son dinero, sino simplemente un sistema de racionamiento introducido bajo la apariencia de dinero, con una interfaz atractiva en forma de aplicación del banco central.</p>
+
+<p>Obviamente, se deben encontrar soluciones. ¿Qué dinero usaremos hoy y mañana?</p>
+
+<p>Parecería que las stablecoins “top” con capitalizaciones multimillonarias (como USDT, USDC, DAI, etc.) resuelven muchos problemas. Lamentablemente, los eventos de 2022 (el ataque que llevó al colapso de una de las mayores stablecoins UST (Terra), amenazas y bloqueos en otras stablecoins) demostraron que su fiabilidad y seguridad están muy cuestionadas. Las grandes están sujetas a una amplia gama de amenazas de todos lados: desde políticos y populistas hasta estafadores. De hecho, hoy las stablecoins como USDT están bien como medio de intercambio, pero de ninguna manera para almacenar valor.</p>
+
+<p>Las criptomonedas regulares (Bitcoin, Monero, Dogecoin) son adecuadas para ahorros a largo plazo, pero la volatilidad, a menudo las altas comisiones de transacción y los retrasos las hacen no muy convenientes para el intercambio diario, el ahorro a mediano plazo y otras aplicaciones.</p>
+
+<p>Un medio beneficioso y conveniente que cubre muchas de estas necesidades son las unidades de contabilidad de las comunidades locales. Emitidas por comunidades locales y circulando principalmente entre sus participantes, no pretenden ser dinero global, sino que principalmente sirven el propósito específico de contabilizar las obligaciones mutuas entre sus usuarios. Por lo tanto, están vinculadas a personas reales que llevan a cabo actividades económicas reales en el proceso de sus actividades de vida, en lugar de cuasi-dinero de bancos o stablecoins “globales”. Al mismo tiempo, la libertad de usar tales sistemas de contabilidad no está limitada de hecho: cualquiera puede comprar, vender o intercambiar tales unidades sin ser miembro o participante de dicha comunidad. Sin embargo, cuanto más activamente una persona interactúa con los participantes de la comunidad emisora, más beneficioso e interesante le resulta comprar, vender e intercambiar obligaciones usando las unidades de contabilidad de su comunidad. Esto representa un ahorro tangible en intereses y comisiones que no van a banqueros y financieros externos. Esta es una función de ahorro comprensible: el participante entiende QUÉ exactamente respalda la estabilidad de tal “moneda” al ver la vida económica de la comunidad. Esto es, finalmente, un mercado para promover sus servicios y bienes, un campo para la actividad y la colaboración para quienes estén interesados.</p>
+
+<p>Tales unidades son los tokens USDMAU y MAU que ofrecemos, cuya circulación y funcionamiento técnico es proporcionado por la organización descentralizada MAU Accounts DAO.</p>
+
+<p>El valor del token USDMAU se establece igual a un dólar estadounidense (USD) y se mantiene en intercambios descentralizados (DEX) y durante el intercambio según este equivalente. El valor del token MAU es flotante. Hoy lo ofrecemos con un punto de referencia nocional de 1 gramo de oro (aproximadamente 70 USD).</p>
+
+<p>¡Le invitamos a comenzar a usar nuestras monedas convenientes y fiables ahora! Solo instale una billetera (o use una billetera web en su navegador), deposite una pequeña cantidad y pruebe usarla: comprando, aceptando pagos y manteniendo una pequeña reserva de fondos. Estamos seguros de que nuestras monedas se convertirán en una de las herramientas convenientes y útiles para usted, resolviendo al menos algunos de sus problemas “monetarios” en el desafiante año 2023.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="unidades de contabilidad" /><category term="tokens" /><summary type="html"><![CDATA[Presentamos nuestras unidades de contabilidad]]></summary></entry></feed>

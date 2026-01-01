@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mauaccounts.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mauaccounts.net/fr/" rel="alternate" type="text/html" /><updated>2026-01-01T02:28:01+00:00</updated><id>https://mauaccounts.net/feed.xml</id><title type="html">MAU Accounts DAO</title><subtitle>MAU Accounts DAO — A decentralized ecosystem for mutual obligations and horizontal economy</subtitle><entry xml:lang="fr"><title type="html">Mise à jour du site web de MAU Accounts DAO</title><link href="https://mauaccounts.net/fr/news/website-update" rel="alternate" type="text/html" title="Mise à jour du site web de MAU Accounts DAO" /><published>2025-12-29T00:00:00+00:00</published><updated>2025-12-29T00:00:00+00:00</updated><id>https://mauaccounts.net/news/website-update</id><content type="html" xml:base="https://mauaccounts.net/news/website-update"><![CDATA[<p>Nous avons mis à jour le site officiel de <strong>MAU Accounts DAO</strong>.</p>
+
+<p>Dans cette nouvelle version, le site est devenu plus structuré et plus facile à naviguer. Nous avons révisé les textes, clarifié la description du système et de l’écosystème, et organisé les documents juridiques et informatifs sous une forme plus transparente et accessible. Notre objectif est simple : parler clairement et directement de ce que nous faisons, comment nous le faisons, et des principes sur lesquels MAU Accounts DAO est fondé.</p>
+
+<p>Il était particulièrement important pour nous de rendre le site web disponible <strong>dans les six langues officielles des Nations Unies</strong>. C’est une décision délibérée. MAU Accounts DAO n’a jamais été conçu comme un projet fermé « réservé aux initiés ». Nous nous adressons aux Personnes au-delà des frontières, des juridictions et des bulles informationnelles, et nous croyons qu’il est essentiel de parler à l’Humanité dans une langue compréhensible — tant sur le plan conceptuel que littéral.</p>
+
+<p>Le site web mis à jour reflète notre position :</p>
+<ul>
+  <li>l’ouverture plutôt que le bruit marketing,</li>
+  <li>l’autonomie personnelle et la souveraineté individuelle plutôt que la centralisation excessive,</li>
+  <li>des règles claires plutôt que des conditions cachées.</li>
+</ul>
+
+<p>Nous continuerons à développer le site progressivement et à ajouter de nouveaux contenus au fur et à mesure que l’écosystème se développe. Sans précipitation inutile, et sans essayer de paraître ce que nous ne sommes pas.</p>]]></content><author><name></name></author><category term="site web" /><category term="écosystème" /><category term="Humanité" /><summary type="html"><![CDATA[Nous avons mis à jour le site officiel de MAU Accounts DAO]]></summary></entry><entry xml:lang="fr"><title type="html">Lancement de MAU Merchant</title><link href="https://mauaccounts.net/fr/news/mau-merchant-launch" rel="alternate" type="text/html" title="Lancement de MAU Merchant" /><published>2025-12-25T00:00:00+00:00</published><updated>2025-12-25T00:00:00+00:00</updated><id>https://mauaccounts.net/news/mau-merchant-launch</id><content type="html" xml:base="https://mauaccounts.net/news/mau-merchant-launch"><![CDATA[<p>Nous avons lancé <strong><a href="https://merchant.mauaccounts.net">MAU Merchant</a></strong> — une plateforme de traitement des paiements pour accepter les cryptomonnaies et les paiements tokenisés au sein de l’écosystème MAU Accounts DAO.</p>
+
+<p>MAU Merchant a été conçu comme un outil pratique pour les entreprises opérant dans l’économie réelle et cherchant à éviter la dépendance envers des intermédiaires de paiement centralisés et fragiles. Ce n’est pas une expérience ni une vitrine technologique, mais un système prêt pour la production, construit pour une utilisation réelle.</p>
+
+<p>Du point de vue de l’utilisateur, MAU Merchant répond à un besoin direct : accepter des paiements sur plusieurs blockchains et actifs tout en recevant un résultat prévisible — sans avoir à gérer une infrastructure crypto complexe.</p>
+
+<p>La plateforme prend en charge un <strong>modèle multi-blockchain</strong> et une architecture basée sur les comptes. Cela permet aux marchands d’accepter des paiements provenant de différents réseaux via un seul panneau de contrôle, sans gérer manuellement des portefeuilles séparés ni faire face à une comptabilité fragmentée. La création et la configuration des portefeuilles sont gérées automatiquement au sein des blockchains supportées.</p>
+
+<p>La sécurité était une préoccupation de conception primordiale dès le départ. Elle est intégrée directement dans l’architecture par la réduction des risques, la diminution de la dépendance à la confiance dans les composants individuels, et la minimisation des données sensibles et des secrets qui doivent être stockés ou traités. C’est un choix de conception fondamental, pas une fonctionnalité optionnelle.</p>
+
+<p>MAU Merchant prend en charge des blockchains modernes avec des caractéristiques économiques et technologiques diverses — y compris des réseaux avec des transactions rapides et peu coûteuses, des actifs de l’économie horizontale, et des monnaies axées sur la confidentialité où la confidentialité est une propriété centrale du protocole. Cette approche permet aux entreprises de choisir des outils qui sont <strong>appropriés</strong>, plutôt que simplement à la mode.</p>
+
+<p>La plateforme comprend :</p>
+
+<ul>
+  <li>des APIs et webhooks pour l’intégration backend,</li>
+  <li>des formulaires de paiement intégrables pour les sites web,</li>
+  <li>un support multilingue et la localisation,</li>
+  <li>des notifications multicanaux pour les événements de paiement.</li>
+</ul>
+
+<p>MAU Merchant fait partie de l’architecture plus large de MAU Accounts DAO et s’intègre naturellement avec les autres services de l’écosystème. En même temps, il n’est pas limité aux projets internes et peut être utilisé par des marchands et services externes qui partagent notre approche de l’autonomie, de la transparence et de la responsabilité technologique.</p>
+
+<p>Nous développons MAU Merchant de manière délibérée et sans précipitation, en nous concentrant sur la stabilité, la prévisibilité et la valeur commerciale réelle. La mise à l’échelle et l’expansion des fonctionnalités suivront l’utilisation pratique — elles ne la précéderont pas.</p>]]></content><author><name></name></author><category term="MAU Merchant" /><category term="traitement des paiements" /><category term="paiements crypto" /><category term="multiblockchain" /><category term="plateforme pour marchands" /><category term="infrastructure financière décentralisée" /><category term="économie horizontale" /><category term="MAU Accounts DAO" /><summary type="html"><![CDATA[Lancement de la plateforme de traitement des paiements MAU Merchant]]></summary></entry><entry xml:lang="fr"><title type="html">Lancement de MAU ID</title><link href="https://mauaccounts.net/fr/news/mau-id-launch" rel="alternate" type="text/html" title="Lancement de MAU ID" /><published>2025-06-26T00:00:00+00:00</published><updated>2025-06-26T00:00:00+00:00</updated><id>https://mauaccounts.net/news/mau-id-launch</id><content type="html" xml:base="https://mauaccounts.net/news/mau-id-launch"><![CDATA[<p>Nous avons lancé <strong><a href="https://id.mauaccounts.net">MAU ID</a></strong> — notre propre système d’identification et d’authentification au sein de l’écosystème MAU Accounts DAO.</p>
+
+<p>Ce projet n’a pas été créé comme une tentative d’inventer un autre « nouvel internet ». Il s’agit plutôt d’une réponse calme et délibérée à ce que l’identité numérique est devenue de plus en plus ces dernières années. De plus en plus souvent, le même modèle est proposé : un fournisseur centralisé, une clé unique « pour tout », une collecte extensive de données, et une perte progressive du contrôle de l’utilisateur sur sa propre identité numérique.</p>
+
+<p>MAU ID est construit sur des principes différents.</p>
+
+<p>Nous ne suivons délibérément pas la voie de l’hyper-centralisation et ne cherchons pas à devenir un fournisseur d’identité universel pour tous. MAU ID fait partie d’un modèle autonome et orienté réseau dans lequel l’identité reste un outil de l’utilisateur, et non un levier de contrôle externe. Il ne s’agit pas d’une décentralisation au niveau du protocole ou pilotée par la blockchain. C’est une décentralisation d’un autre type — organisationnelle et fondée sur des valeurs — exprimée à travers l’architecture du système, les règles d’accès et la manière dont les données sont traitées.</p>
+
+<p>D’un point de vue pratique, MAU ID répond à des besoins très concrets. Les utilisateurs peuvent s’inscrire, se connecter aux services de l’écosystème et gérer leurs sessions et méthodes d’authentification en utilisant des mécanismes familiers et compréhensibles — noms d’utilisateur, mots de passe et clés d’accès modernes. Pas de données biométriques. Pas de dépendance envers les monopoles mondiaux de l’identité. Pas de conditions cachées.</p>
+
+<p>Sous le capot, MAU ID est construit sur une solution mature, de qualité industrielle et ouverte qui a fait ses preuves au fil du temps et de l’utilisation réelle. Nous avons intentionnellement choisi la fiabilité plutôt que l’expérimentation, car l’identité n’est pas un domaine pour l’aventurisme technologique. C’est un fondement sur lequel la confiance se construit.</p>
+
+<p>Dans un sens plus large, MAU ID peut être vu comme l’un des ponts entre Web 2.0 et Web 3.0. Il permet aux gens de vivre dans le web familier, d’utiliser des sites web et des services ordinaires, tout en s’éloignant progressivement des modèles de contrôle externe total vers des systèmes plus autonomes et orientés utilisateur.</p>
+
+<p>Il est important de souligner que <strong>MAU ID n’est pas conçu uniquement pour nos projets internes</strong>. Nous sommes ouverts à le proposer aux membres de la communauté et aux projets indépendants qui souhaitent utiliser MAU ID sur leurs propres sites web, applications et services comme une base prête à l’emploi pour une gestion sécurisée, complète et maîtrisable de l’identité et des accès.</p>
+
+<p>Avec MAU ID, vous pouvez :</p>
+
+<ul>
+  <li>utiliser un identifiant indépendant qui n’est pas lié aux grandes entreprises mondiales,</li>
+  <li>bénéficier d’un système mature et prêt pour la production sans avoir à construire et maintenir une infrastructure complexe vous-même,</li>
+  <li>conserver le contrôle sur les règles d’accès, les politiques de sécurité et le cycle de vie des comptes utilisateurs.</li>
+</ul>
+
+<p>MAU ID est déjà utilisé au sein de l’écosystème MAU Accounts DAO et servira de base pour les futurs services et projets. Nous continuons à le développer avec soin et sans précipitation — de la manière que préfèrent les Chats : d’abord la stabilité, ensuite l’échelle.</p>]]></content><author><name></name></author><category term="MAU ID" /><category term="identification" /><category term="authentification" /><category term="écosystème" /><category term="décentralisation" /><summary type="html"><![CDATA[Nous avons lancé MAU ID — notre propre système d'identification et d'authentification au sein de l'écosystème MAU Accounts DAO]]></summary></entry><entry xml:lang="fr"><title type="html">Résolution du Conseil des Félins du 25 décembre 2024</title><link href="https://mauaccounts.net/fr/news/board-annual-profits" rel="alternate" type="text/html" title="Résolution du Conseil des Félins du 25 décembre 2024" /><published>2024-12-25T00:00:00+00:00</published><updated>2024-12-25T00:00:00+00:00</updated><id>https://mauaccounts.net/news/board-annual-profits</id><content type="html" xml:base="https://mauaccounts.net/news/board-annual-profits"><![CDATA[<h3 id="résolution-du-conseil-des-félins-du-25-décembre-2024">Résolution du Conseil des Félins du 25 décembre 2024</h3>
+
+<p><strong>Sujet :</strong> Recommandation sur l’allocation des bénéfices annuels.</p>
+
+<p><strong>Contenu :</strong></p>
+
+<p>Le Conseil des Félins recommande d’allouer 40% du bénéfice annuel 2024 de MAU Accounts DAO pour une distribution airdrop aux détenteurs de jetons MAU (à l’exclusion des jetons non distribués). Sur la base du prix de marché du jeton MAU au 24 décembre 2024, le rendement annuel en pourcentage (APY) est projeté à 289,81%. Cette mesure vise à inciter les détenteurs de jetons et à renforcer l’attractivité des jetons MAU.</p>
+
+<p>Pour le développement de MAU Accounts DAO, il est proposé d’allouer 50% des bénéfices. Ces fonds seront utilisés pour étendre les activités de la DAO, mettre en œuvre des projets innovants, mener des initiatives marketing, développer de nouveaux produits et entrer sur de nouveaux marchés. Cela permettra à MAU Accounts DAO de renforcer sa position sur le marché et d’assurer une croissance à long terme.</p>
+
+<p>Les 10% restants des bénéfices sont prévus pour renforcer la stabilité financière. Ces fonds seront alloués à l’augmentation de la surcollatéralisation des jetons USDMAU et autres jetons émis, minimisant les risques financiers et améliorant la liquidité.</p>
+
+<p>Ce plan de distribution des bénéfices prend en compte les intérêts des Participants, les objectifs stratégiques de MAU Accounts DAO et la nécessité de maintenir une stabilité financière durable.</p>
+
+<p>Le Conseil des Félins a proposé le 25 décembre 2024 comme date d’enregistrement pour déterminer les comptes éligibles à recevoir l’airdrop.</p>
+
+<p>Cette résolution du Conseil des Félins est soumise pour examen et approbation par la Procédure de Consensus de MAU Accounts DAO.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="bénéfice annuel" /><category term="Conseil des Félins" /><category term="airdrop" /><summary type="html"><![CDATA[Recommandation sur l'allocation des bénéfices annuels.]]></summary></entry><entry xml:lang="fr"><title type="html">Premiers pas. Installation des portefeuilles. Instructions</title><link href="https://mauaccounts.net/fr/news/stellar-wallets" rel="alternate" type="text/html" title="Premiers pas. Installation des portefeuilles. Instructions" /><published>2023-01-30T00:00:00+00:00</published><updated>2023-01-30T00:00:00+00:00</updated><id>https://mauaccounts.net/news/stellar-wallets</id><content type="html" xml:base="https://mauaccounts.net/news/stellar-wallets"><![CDATA[<h3 id="la-blockchain-plateforme-sur-laquelle-nos-jetons-sont-implémentés">La Blockchain (Plateforme) sur laquelle nos jetons sont implémentés</h3>
+
+<p>Actuellement, la base technologique de nos jetons USDMAU et MAU est la plateforme Stellar. Elle possède des capacités avancées, est conviviale et nécessite des coûts minimaux (sous forme de frais de transfert, etc.).</p>
+
+<p>Après avoir créé votre compte sur la plateforme Stellar pour la première fois, vous ne pouvez pas encore l’utiliser car le compte doit être activé. Après l’activation, vous devez également ajouter nos jetons à la liste des actifs utilisés par votre compte — en d’autres termes, ouvrir une ligne de confiance (trustline) pour eux. De plus, toutes les opérations nécessitent le paiement de frais dans la cryptomonnaie native de Stellar — les Lumens (XLM). Tous ces coûts sont minimes, donc notre bot vous enverra quelques pièces gratuitement ; il suffit de lui fournir votre numéro de compte (clé publique) — <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>.</p>
+
+<h3 id="choisir-et-installer-un-portefeuille">Choisir et installer un portefeuille</h3>
+
+<p>Pour utiliser les jetons USDMAU et MAU — recevoir des paiements, effectuer des paiements, échanger, vérifier votre solde — vous devez installer une application de portefeuille. Il en existe plusieurs et vous pouvez choisir celle qui vous convient le mieux.</p>
+
+<h3 id="lobstr---httpslobstrco">Lobstr - <a href="https://lobstr.co/">https://lobstr.co/</a></h3>
+
+<p>Le portefeuille le plus pratique et le plus avancé, disponible à la fois en version web et en application pour téléphones (iPhone et Android).</p>
+
+<p>Le portefeuille nécessite une adresse e-mail lors de l’inscription.</p>
+
+<p>Ce portefeuille vous permet d’échanger divers jetons entre eux — Swap d’actifs.</p>
+
+<p>Téléchargez les <a href="https://mauaccounts.net/files/ru_lobstr_mobile_manual.pdf">instructions brèves</a> pour installer le portefeuille Lobstr sur un téléphone mobile.</p>
+
+<p>Après avoir installé Lobstr :</p>
+
+<p>1. Assurez-vous de sauvegarder votre phrase de récupération de portefeuille, gardez-la dans un endroit inaccessible aux autres ! C’est l’équivalent de votre clé privée pour les fonds de votre compte.</p>
+
+<p>2. Vous pouvez trouver votre clé publique — qui est l’adresse de votre portefeuille où vous recevrez des jetons — depuis le menu principal du portefeuille en appuyant sur Recevoir -&gt; Adresse Stellar -&gt; Copier ou Partager. L’adresse du portefeuille est une chaîne commençant par <code class="language-plaintext highlighter-rouge">G...</code>
+Maintenant allez sur le bot Telegram <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>. Sélectionnez la commande <code class="language-plaintext highlighter-rouge">/nov</code> et donnez au bot l’adresse de votre portefeuille. Vous recevrez les premières pièces Stellar (XLM) pour activer votre compte et pourrez commencer à utiliser votre portefeuille.</p>
+
+<p>3. Allez dans la liste des jetons (Assets). Ici vous verrez le bouton Ajouter un actif. Appuyez dessus pour ajouter nos jetons.</p>
+
+<p>Dans la barre de recherche, entrez MAU — notre jeton MAU (mauaccounts.net) apparaîtra dans la liste. Il peut y avoir d’autres jetons avec des noms similaires, possiblement des faux émis par quelqu’un d’autre. Ne les ajoutez pas. Cliquez sur le bouton Ajouter à côté de notre jeton MAU (mauaccounts.net). Le portefeuille vous montrera un avertissement ; vérifiez ici l’adresse de l’émetteur avec les premiers et derniers caractères de l’adresse de l’émetteur de nos jetons — MAU Accounts DAO — <code class="language-plaintext highlighter-rouge">GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB</code>, et le domaine de l’émetteur — <code class="language-plaintext highlighter-rouge">mauaccounts.net</code></p>
+
+<p>Cliquez sur Confirmer et Continuer, puis Ajouter l’actif. Le jeton MAU sera ajouté à votre portefeuille Stellar et son solde apparaîtra dans votre liste d’actifs. Vous pourrez l’utiliser.</p>
+
+<p>4. De même, ajoutez les jetons USDMAU.</p>
+
+<h3 id="solar---httpssolarwalletio">Solar - <a href="https://solarwallet.io/">https://solarwallet.io/</a></h3>
+
+<p>Ce portefeuille ne demande aucune information inutile et a un code source ouvert. Il prend également en charge un nombre illimité de comptes. Cependant, ses fonctionnalités sont très limitées et il peut ne pas être aussi pratique.</p>
+
+<p>Après avoir installé Solar :</p>
+
+<p>1. Cliquez sur « Créer un compte ». Une paire de clés sera créée — publique et privée. Sauvegardez votre clé privée (par exemple, en l’écrivant sur papier) pour ne pas perdre l’accès à votre argent en cas de problèmes d’accès au portefeuille ! Ne la montrez jamais à personne ; la clé privée est littéralement la clé de vos fonds dans votre compte crypto !</p>
+
+<p>2. Maintenant vous avez un compte vide. En y entrant, appuyez sur Recevoir pour obtenir la clé publique — qui est également le numéro de compte (adresse du portefeuille) vers lequel les jetons peuvent être envoyés.</p>
+
+<p>Donnez-la au bot <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a> pour recevoir les premières pièces Stellar (XLM) et commencer à utiliser le portefeuille.</p>
+
+<p>3. Après avoir reçu des XLM, allez dans l’élément de menu Assets &amp; Balances — vos jetons et leurs soldes seront affichés ici. Appuyez sur Ajouter un actif à votre compte ici.</p>
+
+<p>Dans la barre de recherche, entrez MAU émis par mauaccounts.net (des faux émis par quelqu’un d’autre peuvent être trouvés, soyez prudent, ne les ajoutez pas). Lorsque vous cliquez, la description du jeton MAU s’ouvrira. Ici vous verrez COMPTE ÉMETTEUR — c’est la clé publique de l’émetteur de nos jetons — MAU Accounts DAO — elle doit être <code class="language-plaintext highlighter-rouge">GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB</code>.</p>
+
+<p>Cliquez sur AJOUTER L’ACTIF AU COMPTE et vous ajouterez les jetons MAU à votre compte et pourrez les utiliser.</p>
+
+<p>4. De même, ajoutez les jetons USDMAU.</p>
+
+<h3 id="acheter-et-vendre-des-jetons-usdmau-et-mau">Acheter et vendre des jetons USDMAU et MAU</h3>
+
+<p>Vous pouvez toujours vendre ou acheter la quantité de jetons dont vous avez besoin en utilisant l’échange décentralisé interne de Stellar — par exemple, dans le portefeuille Stellar, ou <a href="https://scopuly.com/trade/USDMAU-XLM/GABL7PXSAV4W4L32PI6E46HLLSMTEUKRDUMAY2Q6JXITNV2QCWABRAOB/native">Scopuly</a>. Et dans notre bot <a href="https://t.me/mau_accounts_bot">@mau_accounts_bot</a>, vous pouvez échanger des USDMAU contre d’autres cryptomonnaies et monnaies fiduciaires.</p>
+
+<p>Vous pouvez également échanger librement des jetons avec de vraies personnes et entreprises. C’est pour cela qu’ils ont été créés.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="jetons" /><category term="portefeuille" /><category term="Lobstr" /><category term="Solarwallet" /><summary type="html"><![CDATA[Un bref aperçu pour commencer avec nos jetons et comment installer un portefeuille]]></summary></entry><entry xml:lang="fr"><title type="html">Lancement des jetons USDMAU et MAU</title><link href="https://mauaccounts.net/fr/news/local-tokens" rel="alternate" type="text/html" title="Lancement des jetons USDMAU et MAU" /><published>2023-01-23T00:00:00+00:00</published><updated>2023-01-23T00:00:00+00:00</updated><id>https://mauaccounts.net/news/local-tokens</id><content type="html" xml:base="https://mauaccounts.net/news/local-tokens"><![CDATA[<p>Les unités de compte communautaires locales sont une alternative de qualité au système financier, une nouvelle approche de la coopération, de l’échange et de l’épargne.</p>
+
+<p>Laissez-nous vous en dire plus.</p>
+
+<hr />
+
+<h2 id="pourquoi-est-ce-nécessaire-">Pourquoi est-ce nécessaire ?</h2>
+
+<p>Historiquement, l’argent a rempli plusieurs fonctions essentielles : mesurer la valeur, servir de moyen d’échange et agir comme réserve de valeur. L’argent n’est pas une fin en soi, mais souvent un moyen nécessaire sans lequel ni la sécurité, ni le développement, ni la liberté ne sont possibles.</p>
+
+<p>Dans le monde en rapide évolution d’aujourd’hui, les formes familières de l’argent disparaissent en fait, perdant leurs fonctions. L’argent en banque ne vous appartient pas vraiment — il peut être soumis à des restrictions, des confiscations, des échanges forcés ou des retenues à tout moment. Dans différents pays et juridictions, des sanctions de légalité douteuse mais d’efficacité indéniable peuvent être appliquées — souvent de manière aveugle, simplement sur la base du passeport ou de la nationalité.</p>
+
+<p>L’introduction agressive des « monnaies numériques de banque centrale » (MNBC) nous menace tous d’une abolition effective de l’argent liquide et d’autres formes de monnaie et de leur remplacement par un substitut sous forme de « monnaie programmable (ou gérée) » qui n’est pas vraiment de l’argent, puisque chaque action de son « propriétaire » conditionnel sera contrôlée par l’émetteur, rendant impossible toute épargne fiable ou tout échange libre. Ainsi, les MNBC ne sont pas de l’argent, mais simplement un système de rationnement introduit sous le couvert de l’argent, avec une interface attrayante sous forme d’application de banque centrale.</p>
+
+<p>Il est évident que des solutions doivent être trouvées. Quel argent utiliserons-nous aujourd’hui et demain ?</p>
+
+<p>Il semblerait que les « top » stablecoins avec des capitalisations de plusieurs milliards de dollars (comme USDT, USDC, DAI, etc.) résolvent de nombreux problèmes. Hélas, les événements de 2022 (l’attaque qui a conduit à l’effondrement de l’un des plus grands stablecoins UST (Terra), les menaces et blocages dans d’autres stablecoins) ont montré que leur fiabilité et leur sécurité sont très discutables. Les grands sont soumis à toute une gamme de menaces de tous côtés — des politiciens et populistes aux fraudeurs. En fait, aujourd’hui, des stablecoins comme USDT conviennent comme moyen d’échange — mais en aucun cas pour stocker de la valeur.</p>
+
+<p>Les cryptomonnaies ordinaires (Bitcoin, Monero, Dogecoin) conviennent pour l’épargne à long terme, mais la volatilité, souvent les frais de transaction élevés et les retards les rendent moins pratiques pour l’échange quotidien, l’épargne à moyen terme et un certain nombre d’autres applications.</p>
+
+<p>Un moyen bénéfique et pratique qui couvre beaucoup de ces besoins sont les unités de compte des communautés locales. Émises par les communautés locales et circulant principalement parmi leurs participants, elles ne prétendent pas être de l’argent mondial, mais servent principalement à la comptabilité des obligations mutuelles entre leurs utilisateurs. Ainsi, elles sont liées à des personnes réelles qui exercent une activité économique réelle dans le cadre de leurs activités de vie, plutôt que de la quasi-monnaie des banques ou des stablecoins « mondiaux ». En même temps, la liberté d’utiliser de tels systèmes de comptabilité n’est pas limitée en fait — n’importe qui peut acheter, vendre ou échanger de telles unités sans être membre ou participant d’une telle communauté. Néanmoins, plus une personne interagit activement avec les participants de la communauté émettrice, plus il lui est bénéfique et intéressant d’acheter, vendre et échanger des obligations en utilisant les unités de compte de sa communauté. Il s’agit d’économies tangibles sur les intérêts et les frais qui ne vont pas à des banquiers et financiers tiers. C’est une fonction d’épargne compréhensible — le participant comprend CE QUI soutient exactement la stabilité d’une telle « monnaie » en voyant la vie économique de la communauté. C’est, enfin, un marché pour promouvoir ses services et ses biens, un terrain pour l’activité et la collaboration pour ceux qui sont intéressés.</p>
+
+<p>De telles unités sont les jetons USDMAU et MAU que nous proposons, dont la circulation et le fonctionnement technique sont assurés par l’organisation décentralisée MAU Accounts DAO.</p>
+
+<p>La valeur du jeton USDMAU est fixée égale à un dollar américain (USD) et est maintenue sur les échanges décentralisés (DEX) et lors de l’échange selon cet équivalent. La valeur du jeton MAU est flottante. Aujourd’hui, nous le proposons à un indice de référence notionnel de 1 gramme d’or (environ 70 USD).</p>
+
+<p>Nous vous invitons à commencer à utiliser nos pièces pratiques et fiables dès maintenant ! Il suffit d’installer un portefeuille (ou d’utiliser un portefeuille web dans votre navigateur), de déposer un petit montant et d’essayer de l’utiliser — acheter, accepter des paiements et garder une petite réserve de fonds. Nous sommes confiants que nos pièces deviendront l’un des outils pratiques et utiles pour vous, résolvant au moins certains de vos problèmes « monétaires » dans cette année difficile de 2023.</p>]]></content><author><name></name></author><category term="MAU" /><category term="USDMAU" /><category term="unités de compte" /><category term="jetons" /><summary type="html"><![CDATA[Présentation de nos unités de compte]]></summary></entry></feed>
